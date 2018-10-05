@@ -59,12 +59,14 @@ fitted. (this was to get done in time :smile:)
 the electronic parts are hand-soldered / assembled.
 for this there is a helper that can be manufactured out of >= 1mm cardboard
 ![soldering helper](led_soldering_helper.svg)
-
 → first iteration of this did not work. holes are to big.
+but i managed to create a working test:
+![hand-solder prototype](./pictures/P1680990_small.jpg)
+![hand-solder prototype](./pictures/P1680991_crop.jpg)
+![hand-solder prototype](./pictures/P1680995_crop.jpg)
 
-
-eventually there could fit a pcb.  
-→ TODO check & create PCB
+TODO: design pcb  
+see [LEDBoard_1x4_16bit_highdensity](https://github.com/s-light/LEDBoard_1x4_16bit_highdensity/)
 
 ### planed parts
 - LEDs: Nichia 124
