@@ -7,14 +7,14 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="74.016586mm"
-   height="74.016182mm"
+   width="91.402588mm"
+   height="91.402481mm"
    version="1.1"
-   id="svg70"
+   id="svg46"
    sodipodi:docname="plexiglas.svg"
    inkscape:version="0.92.3 (2405546, 2018-03-11)">
   <metadata
-     id="metadata74">
+     id="metadata50">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -22,7 +22,34 @@
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
         <dc:title></dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by/4.0/" />
+        <dc:date>20.10.2018</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Stefan Krüger</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>Stefan Krüger</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:language>EN / DE</dc:language>
       </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
     </rdf:RDF>
   </metadata>
   <sodipodi:namedview
@@ -36,24 +63,24 @@
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
      inkscape:window-height="1015"
-     id="namedview72"
+     id="namedview48"
      showgrid="false"
-     inkscape:document-units="mm"
      units="mm"
+     inkscape:document-units="mm"
+     inkscape:showpageshadow="false"
      fit-margin-top="5"
      fit-margin-left="5"
      fit-margin-right="5"
      fit-margin-bottom="5"
-     inkscape:showpageshadow="false"
-     inkscape:zoom="0.21024131"
-     inkscape:cx="-19.77914"
-     inkscape:cy="304.28178"
+     inkscape:zoom="2.3505015"
+     inkscape:cx="172.7293"
+     inkscape:cy="172.7291"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g68" />
+     inkscape:current-layer="g44" />
   <desc
-     id="desc2">/home/stefan/mydata/projects/20170813_MagierCharacter/amulet/amulet_V3_export/plexiglas.dxf - scale = 1.000000, origin = (0.000000, 0.000000), method = manual</desc>
+     id="desc2">/home/stefan/mydata/github/magic_amulet/magic_amulet/export/plexiglas.dxf - scale = 1.000000, origin = (0.000000, 0.000000), method = manual</desc>
   <defs
      id="defs16">
     <marker
@@ -103,131 +130,71 @@
      inkscape:groupmode="layer"
      inkscape:label="0"
      id="g18"
-     transform="translate(-421.38598,-585.79543)" />
+     transform="translate(-388.53055,-552.94)" />
   <g
      inkscape:groupmode="layer"
      inkscape:label="View004"
-     id="g68"
-     transform="translate(-421.38598,-585.79543)">
+     id="g44"
+     transform="translate(-388.53055,-552.94)">
     <path
-       d="m 572.60598,846.144 -0.008,-0.0624"
+       d="m 673.50425,837.91559 -71.16094,41.08498"
        style="fill:none;stroke:#000000"
        id="path20"
        inkscape:connector-curvature="0" />
     <path
-       d="M 572.59843,846.08164 H 549.92126"
+       d="M 602.34331,879.00057 H 520.17638"
        style="fill:none;stroke:#000000"
        id="path22"
        inkscape:connector-curvature="0" />
     <path
-       d="m 549.9137,846.144 0.008,-0.0624"
+       d="M 520.17638,879.00057 449.01543,837.91559"
        style="fill:none;stroke:#000000"
        id="path24"
        inkscape:connector-curvature="0" />
     <path
-       d="M 549.9137,846.144 H 528.9789"
+       d="M 449.01543,837.91559 407.92819,766.75427"
        style="fill:none;stroke:#000000"
        id="path26"
        inkscape:connector-curvature="0" />
     <path
-       d="M 528.9789,846.144 473.06457,813.86268"
+       d="M 407.92819,766.75427 V 684.58583"
        style="fill:none;stroke:#000000"
        id="path28"
        inkscape:connector-curvature="0" />
     <path
-       d="M 473.06457,813.86268 440.78362,757.95024"
+       d="m 407.92819,684.58583 41.08724,-71.16095"
        style="fill:none;stroke:#000000"
        id="path30"
        inkscape:connector-curvature="0" />
     <path
-       d="M 440.78362,757.95024 V 693.38835"
+       d="m 449.01543,613.42488 71.16095,-41.08724"
        style="fill:none;stroke:#000000"
        id="path32"
        inkscape:connector-curvature="0" />
     <path
-       d="m 440.78362,693.38835 10.46929,-18.1304"
+       d="m 520.17638,572.33764 h 82.16693"
        style="fill:none;stroke:#000000"
        id="path34"
        inkscape:connector-curvature="0" />
     <path
-       d="m 451.25291,675.25795 0.0567,0.0265"
+       d="m 602.34331,572.33764 71.16094,41.08724"
        style="fill:none;stroke:#000000"
        id="path36"
        inkscape:connector-curvature="0" />
     <path
-       d="M 451.30961,675.28441 462.64819,655.6422"
+       d="m 673.50425,613.42488 41.08725,71.16095"
        style="fill:none;stroke:#000000"
        id="path38"
        inkscape:connector-curvature="0" />
     <path
-       d="m 462.59906,655.60819 0.0491,0.034"
+       d="m 714.5915,684.58583 v 82.16844"
        style="fill:none;stroke:#000000"
        id="path40"
        inkscape:connector-curvature="0" />
     <path
-       d="m 462.59906,655.60819 10.46551,-18.13417"
+       d="m 714.5915,766.75427 -41.08725,71.16132"
        style="fill:none;stroke:#000000"
        id="path42"
-       inkscape:connector-curvature="0" />
-    <path
-       d="M 473.06457,637.47402 528.9789,605.19307"
-       style="fill:none;stroke:#000000"
-       id="path44"
-       inkscape:connector-curvature="0" />
-    <path
-       d="m 528.9789,605.19307 h 64.56189"
-       style="fill:none;stroke:#000000"
-       id="path46"
-       inkscape:connector-curvature="0" />
-    <path
-       d="m 593.54079,605.19307 55.91433,32.28095"
-       style="fill:none;stroke:#000000"
-       id="path48"
-       inkscape:connector-curvature="0" />
-    <path
-       d="m 649.45512,637.47402 10.46551,18.13417"
-       style="fill:none;stroke:#000000"
-       id="path50"
-       inkscape:connector-curvature="0" />
-    <path
-       d="m 659.92063,655.60819 -0.0491,0.034"
-       style="fill:none;stroke:#000000"
-       id="path52"
-       inkscape:connector-curvature="0" />
-    <path
-       d="M 671.21008,675.28441 659.8715,655.6422"
-       style="fill:none;stroke:#000000"
-       id="path54"
-       inkscape:connector-curvature="0" />
-    <path
-       d="m 671.26677,675.25795 -0.0567,0.0265"
-       style="fill:none;stroke:#000000"
-       id="path56"
-       inkscape:connector-curvature="0" />
-    <path
-       d="m 671.26677,675.25795 10.46929,18.1304"
-       style="fill:none;stroke:#000000"
-       id="path58"
-       inkscape:connector-curvature="0" />
-    <path
-       d="m 681.73606,693.38835 v 64.56189"
-       style="fill:none;stroke:#000000"
-       id="path60"
-       inkscape:connector-curvature="0" />
-    <path
-       d="m 681.73606,757.95024 -32.28094,55.91244"
-       style="fill:none;stroke:#000000"
-       id="path62"
-       inkscape:connector-curvature="0" />
-    <path
-       d="M 649.45512,813.86268 593.54079,846.144"
-       style="fill:none;stroke:#000000"
-       id="path64"
-       inkscape:connector-curvature="0" />
-    <path
-       d="M 593.54079,846.144 H 572.60598"
-       style="fill:none;stroke:#000000"
-       id="path66"
        inkscape:connector-curvature="0" />
   </g>
 </svg>
