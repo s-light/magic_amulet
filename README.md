@@ -65,9 +65,12 @@ but i managed to create a working test:
 ![hand-solder prototype](./pictures/P1680991_crop.jpg)
 ![hand-solder prototype](./pictures/P1680995_crop.jpg)
 
-TODO: design pcb  
-see [LEDBoard_1x4_16bit_highdensity](https://github.com/s-light/LEDBoard_1x4_16bit_highdensity/)
+#### Next Revision
 
-### planed parts
-- LEDs: Nichia 124
-- driver: TLC5971
+pcb see [magic_amulet_pcbs / LEDBoard_4x4_HD](https://github.com/s-light/magic_amulet_pcbs)
+
+and with a bunch of [sensors](sensors.md)
+
+#### planed parts
+- LEDs: Nichia 124 (switched to Rohm MSL0402RGB - they are smaller)
+- driver: TLC5971 (switched to TLC5957 - just to test a new type :-) )
