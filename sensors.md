@@ -4,6 +4,14 @@
 
 info's for the different Sensor Ideas that can be useful for interacting with the amulet
 
+
+## Light & Gesture
+
+[APDS-9960](https://www.broadcom.com/products/optical-sensors/integrated-ambient-light-and-proximity-sensors/apds-9960)
+Digital RGB, Ambient Light, Proximity and Gesture Sensor
+
+- [CircuitPython library available](https://circuitpython.readthedocs.io/projects/apds9960/en/latest/api.html).
+
 ## Distance
 
 use [VL53L1X](https://www.st.com/en/imaging-and-photonics-solutions/vl53l1x.html)  
