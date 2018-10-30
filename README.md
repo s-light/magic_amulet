@@ -31,7 +31,7 @@ a amulet with an power / guarding animal / creature
     - tree of life
 
 TODO: add art on front wood
-![some idea sketches](ideas.svg)
+![some idea sketches](pattern_ideas/pattern_on_front.svg)
 
 ## housing
 the housing is build from 4 Layers of 4mm pine plywood parts.  
