@@ -45,7 +45,7 @@ super thin cable- with outer diameter of 2.8mm
 
 ### connector
 
-[RJ45 connector - Amphenol Commercial Products RJSSE-5080](https://www.mouser.de/ProductDetail/523-RJSSE5080)
+[RJ45 connector - Bel SS-6488S-A-NF](https://www.mouser.de/ProductDetail/530-SS-6488S-A-NF) [datasheet](https://belfuse.com/resources/drawings/stewartconnector/dr-stw-ss-6488s-a-nf.pdf)
 
 ---
 
