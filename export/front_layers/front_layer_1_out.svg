@@ -150,7 +150,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4"
-     inkscape:cx="15.865955"
+     inkscape:cx="-88.776902"
      inkscape:cy="294.44249"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
@@ -412,11 +412,11 @@
          x="-62.656174"
          y="208.64102"
          style="font-size:6px;fill:#00ff00;fill-opacity:1;stroke-width:0.26458332"
-         id="tspan863">power 80</tspan><tspan
+         id="tspan863">power 60</tspan><tspan
          sodipodi:role="line"
          x="-62.656174"
          y="214.64102"
          style="font-size:6px;fill:#00ff00;fill-opacity:1;stroke-width:0.26458332"
-         id="tspan879">speed 30</tspan></text>
+         id="tspan879">speed 10</tspan></text>
   </g>
 </svg>
